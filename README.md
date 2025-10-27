@@ -68,3 +68,4 @@ _All your data lives in a single file for easy use & sharing!_
 ### ⚡ _Try it, break it, improve it — and let’s make marketing smarter!_
 
 ---
+### Link to the Dashboard: https://lookerstudio.google.com/reporting/75fe1078-d7b7-49bb-93e5-03aee302e41f
