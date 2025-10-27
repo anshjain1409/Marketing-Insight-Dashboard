@@ -22,29 +22,6 @@ _All your data lives in a single file for easy use & sharing!_
 
 ---
 
-## 🛠️ Technologies Used
-
-- **HTML** – page structure
-- **Tailwind CSS** – beautiful, responsive styles
-- **JavaScript (ES6+)** – interactivity & logic
-- **Chart.js** – modern, interactive charts
-
----
-
-## ⚡ Quick Start
-
-1. **Clone this repo**  
-   `git clone https://github.com/anshjain1409/Marketing-Insight-Dashboard.git`
-2. **Open** `dashboard.html` in your browser  
-   _The dashboard works instantly with sample data! 🚦_
-3. **To use your own data:**
-   - Open `dashboard.html` in a text editor.
-   - Replace the sample CSV inside  
-     `const csvData = \`...data...\`;`
-   - Save & refresh the dashboard.
-
----
-
 ## 🔍 Features at a Glance
 
 - **Interactive Filters**: Date, channel, age group
